@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Pasindu Oshadha github cover](https://github.com/PasinduOshadha/PasinduOshadha/blob/main/cover.jpeg)
+![Pasindu Oshadha github cover](https://github.com/PasinduOshadha/PasinduOshadha/blob/main/github-cover.jpeg)
