@@ -22,8 +22,8 @@ Hey there, I'm Pasindu, and I'm all about helping businesses grow by tapping int
 Whether you're a newbie startup or a seasoned pro, I'm all about tailoring solutions that fit your unique goals. So, if you're ready to supercharge your business with a touch of tech wizardry, I'm your partner in crime. Let's turn your challenges into opportunities and watch your business thrive in this fast-paced digital world! 🚀🔥
 
 ### Have an idea and do not know where to start? Contact Me here: 
-- My website <a target='_blank' href="https://pasinduoshadha.com/">www.pasinduoshadha.com</a> 
-- My Linkedin <a target='_blank' href="https://www.linkedin.com/in/pasindu7/">Pasindu Oshadha</a> 
+- My website <a target="_blank" href="https://pasinduoshadha.com/">www.pasinduoshadha.com</a> 
+- My Linkedin <a target="_blank" href="https://www.linkedin.com/in/pasindu7/">Pasindu Oshadha</a> 
 - E-mail me, Click <a href="mailto:mailbox@pasinduoshadha.com">here</a> or <a href="mailto:mailbox@pasinduoshadha.com"> here </a>
 
 Let's Go 💪
