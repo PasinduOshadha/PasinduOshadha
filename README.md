@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Pasindu Oshadha github cover](https://github.com/PasinduOshadha/PasinduOshadha/blob/main/github-cover.jpeg)
+![Pasindu Oshadha github cover](https://github.com/PasinduOshadha/PasinduOshadha/blob/main/github-cover.png)
 
 Hey there, I'm Pasindu, and I'm all about helping businesses grow by tapping into the coolest tech trends out there!
 
